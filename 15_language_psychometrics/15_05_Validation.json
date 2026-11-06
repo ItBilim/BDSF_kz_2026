@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "adults": 159,
+  "excluded": 21,
+  "KZ": 81,
+  "RU": 78,
+  "seed": 20261107,
+  "bootstrap_resamples": 2000,
+  "source_sha256": "e1c39a0d3143ec9e4ce9d8860fea6b5e86f16097b4b2238e0454452eb79d28b1",
+  "factor_fit_notes": [
+    {
+      "language": "KZ",
+      "warnings": []
+    },
+    {
+      "language": "RU",
+      "warnings": []
+    }
+  ],
+  "factor_matching": {
+    "KZ_order": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "RU_order": [
+      2,
+      3,
+      0,
+      1
+    ]
+  },
+  "outputs": {
+    "15_01_Reliability.csv": "f2c005428d2dbe4434938114c7e452c467a03cc0f650770bb380b2bc4a509fe2",
+    "15_02_Item_Total.csv": "8c145f88a4d41eacb164f9ff416858da3e8cf42b0f75dedb126c16161b30186e",
+    "15_03_Factor_Congruence.csv": "33302d541654bee3d50863ded0f4a393990d0685ac0725e41ea4976f01f887ca",
+    "15_03_Factor_Loadings.csv": "c7e5ebb42940c4310207cb010c9f4c67d2d7ed594f486cf33076c51dbea94abc",
+    "15_04_Distribution_Differences.csv": "6bcc328f4afbd0e5bc386074bed83b9f8a881460fe5df485370df12ded8d0581",
+    "15_04_Response_Distributions.csv": "af78f6502920c490def25fca34b8f7af04f897781db30492ced9c005e9c15b2b"
+  }
+}
