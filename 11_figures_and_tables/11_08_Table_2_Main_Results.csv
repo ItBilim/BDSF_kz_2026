@@ -1,0 +1,12 @@
+Section,Metric,Estimate,Secondary,CI_low,CI_high,Note
+Descriptive,D1,61.713836478,22.3887693026,58.2069718217,65.2207011343,Mean; secondary=SD
+Descriptive,D2,57.4947589099,27.0631614031,53.2557208936,61.7337969261,Mean; secondary=SD
+Descriptive,D3,55.3066037736,23.8686729394,51.5679344259,59.0452731212,Mean; secondary=SD
+Descriptive,D4,66.8238993711,25.4265941412,62.8412050515,70.8065936906,Mean; secondary=SD
+Descriptive,BDSF,60.3347746331,21.7520226054,56.9276467894,63.7419024768,Mean; secondary=SD
+Reliability,D1,0.77730144451,0.777740780375,,,Cronbach alpha; secondary=standardized alpha
+Reliability,D2,0.784692552726,0.785350677448,,,Cronbach alpha; secondary=standardized alpha
+Reliability,D3,0.827767406486,0.827037995542,,,Cronbach alpha; secondary=standardized alpha
+Reliability,D4,0.817393535146,0.817622975652,,,Cronbach alpha; secondary=standardized alpha
+Reliability,14_items,0.928379270943,0.928504428509,,,Cronbach alpha; secondary=standardized alpha
+Reliability,4_dimensions,0.901846769928,0.903987565081,,,Cronbach alpha; secondary=standardized alpha

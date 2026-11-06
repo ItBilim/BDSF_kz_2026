@@ -1,0 +1,14 @@
+
+test_blank_answer_fails (__main__.PipelineTests.test_blank_answer_fails) ... ok
+test_failed_build_does_not_publish (__main__.PipelineTests.test_failed_build_does_not_publish) ... ok
+test_missing_column_fails (__main__.PipelineTests.test_missing_column_fails) ... ok
+test_partition_and_raw_preservation (__main__.PipelineTests.test_partition_and_raw_preservation) ... ok
+test_reference_dimensions_and_scores (__main__.PipelineTests.test_reference_dimensions_and_scores) ... ok
+test_score_boundaries (__main__.PipelineTests.test_score_boundaries) ... ok
+test_unknown_age_fails (__main__.PipelineTests.test_unknown_age_fails) ... ok
+test_unknown_answer_fails (__main__.PipelineTests.test_unknown_answer_fails) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.801s
+
+OK

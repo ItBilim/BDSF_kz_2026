@@ -1,0 +1,112 @@
+{
+  "sample": {
+    "n": {
+      "value": 159,
+      "tolerance": 0
+    },
+    "language": {
+      "KZ": {
+        "value": 81,
+        "tolerance": 0
+      },
+      "RU": {
+        "value": 78,
+        "tolerance": 0
+      }
+    },
+    "gender": {
+      "MALE": {
+        "value": 125,
+        "tolerance": 0
+      },
+      "FEMALE": {
+        "value": 34,
+        "tolerance": 0
+      }
+    }
+  },
+  "scores": {
+    "BDSF_mean": {
+      "value": 60.33477467295597,
+      "tolerance": 1e-06
+    },
+    "BDSF_median": {
+      "value": 61.979167,
+      "tolerance": 1e-06
+    },
+    "BDSF_sd": {
+      "value": 21.752022634217763,
+      "tolerance": 1e-06
+    },
+    "D1_mean": {
+      "value": 61.71383647798742,
+      "tolerance": 1e-06
+    },
+    "D2_mean": {
+      "value": 57.49475890566038,
+      "tolerance": 1e-06
+    },
+    "D3_mean": {
+      "value": 55.306603773584904,
+      "tolerance": 1e-06
+    },
+    "D4_mean": {
+      "value": 66.82389939622641,
+      "tolerance": 1e-06
+    }
+  },
+  "levels": {
+    "LOW": {
+      "value": 18,
+      "tolerance": 0
+    },
+    "MEDIUM": {
+      "value": 77,
+      "tolerance": 0
+    },
+    "HIGH": {
+      "value": 64,
+      "tolerance": 0
+    }
+  },
+  "reliability": {
+    "D1": {
+      "value": 0.7773014445099315,
+      "tolerance": 1e-06
+    },
+    "D2": {
+      "value": 0.7846925527257358,
+      "tolerance": 1e-06
+    },
+    "D3": {
+      "value": 0.8277674064855145,
+      "tolerance": 1e-06
+    },
+    "D4": {
+      "value": 0.8173935351462289,
+      "tolerance": 1e-06
+    },
+    "items_14": {
+      "value": 0.9283792709433097,
+      "tolerance": 1e-06
+    },
+    "dimensions_4": {
+      "value": 0.9018467699281378,
+      "tolerance": 1e-06
+    }
+  },
+  "validity": {
+    "KMO": {
+      "value": 0.9274061281457936,
+      "tolerance": 1e-06
+    },
+    "Bartlett_chi2": {
+      "value": 1197.2195110432783,
+      "tolerance": 0.0001
+    },
+    "Bartlett_df": {
+      "value": 91,
+      "tolerance": 0
+    }
+  }
+}

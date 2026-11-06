@@ -1,0 +1,6 @@
+work/
+__pycache__/
+*.pyc
+BDSF_reviewer_package.zip
+.env
+.env.*

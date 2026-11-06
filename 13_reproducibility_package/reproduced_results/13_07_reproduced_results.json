@@ -1,0 +1,60 @@
+{
+  "provenance": {
+    "input": "00_sources/*.csv",
+    "source_hashes": {
+      "00_sources/00_01_BDSF_Kazakhstan_Kazakh_Responses.csv": "0C2B610A8C1F66F5B9C4FEBC75C4B1D2015279FBABF001645527B426813FD05E",
+      "00_sources/00_02_BDSF_Kazakhstan_Russian_Responses.csv": "6F01AE3DE687604AAD4B019A5D964E0A7D58836C81ADDF7340A0E6D368250624",
+      "00_sources/00_03_BDSF_Kazakhstan_Survey_URLs.txt": "28614B21ED83B1ABD6853FBDA97A5FA2F53EE96BA8E1DB77D14777CCB32E98C2",
+      "00_sources/00_04_BDSF_Kazakhstan_Research_Protocol_Extract.pdf": "2C5EB9392F1AECA762ECA2FC04F3ED7CE9F731E1771AFCA3172CA75A40549588",
+      "13_reproducibility_package/inputs/original_article.docx": "18EAA7615B8C0F0C1CE1BE914C42EFF9CDF2163EDD1B360D61C9C2B3550AEDC6",
+      "13_reproducibility_package/inputs/question_map.csv": "F858A84F55A2A006AE842D5A2061C961133B86FD23E3A6BA452A78F40C491308",
+      "13_reproducibility_package/inputs/reference_scoring_matrix.xlsx": "4E0CB030D4B29CDE3E4C62F9CFCC0B2C0013197DD621BA2046688CDB66351EC8"
+    }
+  },
+  "results": {
+    "sample": {
+      "n": 159,
+      "language": {
+        "KZ": 81,
+        "RU": 78
+      },
+      "gender": {
+        "MALE": 125,
+        "FEMALE": 34
+      },
+      "age": {
+        "18_20": 119,
+        "21_23": 39,
+        "GE27": 1
+      }
+    },
+    "scores": {
+      "BDSF_mean": 60.3347746331237,
+      "BDSF_median": 61.97916666666667,
+      "BDSF_sd": 21.752022605424816,
+      "D1_mean": 61.71383647798742,
+      "D2_mean": 57.49475890985326,
+      "D3_mean": 55.306603773584904,
+      "D4_mean": 66.82389937106919
+    },
+    "levels": {
+      "LOW": 18,
+      "MEDIUM": 77,
+      "HIGH": 64
+    },
+    "reliability": {
+      "D1": 0.7773014445099315,
+      "D2": 0.7846925527257358,
+      "D3": 0.8277674064855145,
+      "D4": 0.8173935351462289,
+      "items_14": 0.9283792709433097,
+      "dimensions_4": 0.9018467699281378
+    },
+    "validity": {
+      "KMO": 0.9274061281457936,
+      "Bartlett_chi2": 1197.2195110432783,
+      "Bartlett_df": 91,
+      "Bartlett_p": 2.474406640349877e-192
+    }
+  }
+}

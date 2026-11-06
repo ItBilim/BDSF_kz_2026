@@ -1,0 +1,16 @@
+BUILD_DIRECTORY=D:\Projects\BDSF_kz_2026\work\Тасымалдау сынағы Проверка\Жоба көшірмесі\work\build_fadaeb6f9467
+
+Traceback (most recent call last):
+  File "D:\Projects\BDSF_kz_2026\work\Тасымалдау сынағы Проверка\Жоба көшірмесі\13_reproducibility_package\13_pipeline.py", line 238, in <module>
+    if __name__=='__main__':raise SystemExit(main())
+                                             ~~~~^^
+  File "D:\Projects\BDSF_kz_2026\work\Тасымалдау сынағы Проверка\Жоба көшірмесі\13_reproducibility_package\13_pipeline.py", line 184, in main
+    adult,frames=harmonize(project,qmap,build);summary,analytic=st.analyse(adult,build);frames.update(analytic)
+                 ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\BDSF_kz_2026\work\Тасымалдау сынағы Проверка\Жоба көшірмесі\13_reproducibility_package\13_pipeline.py", line 51, in harmonize
+    r=dict(respondent_id=rid,source_language=lang,source_file=path.name,source_row=idx+2,timestamp_raw=v[0],timestamp_iso=dt.isoformat(),gender_raw=v[1],gender_code=checked_map(v[1],cfg['gender'],rid),student_status_raw=v[2],student_status_code=checked_map(v[2],cfg['student'],rid),age_raw=v[3],age_group_code=checked_map(v[3],cfg['age'],rid))
+                                                                                                                                                                                                                                                                                                                      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\BDSF_kz_2026\work\Тасымалдау сынағы Проверка\Жоба көшірмесі\13_reproducibility_package\13_pipeline.py", line 25, in checked_map
+    if key not in mapping:raise ValueError(f'Unknown category at {where}: {value!r}')
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Unknown category at KZ002: 'INVALID AGE'

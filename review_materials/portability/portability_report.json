@@ -1,0 +1,299 @@
+{
+  "status": "PASS",
+  "relocated_path": "D:\\Projects\\BDSF_kz_2026\\work\\Тасымалдау сынағы Проверка\\Жоба көшірмесі",
+  "fresh_outputs": true,
+  "network": "Python audit hook blocks socket access; not OS firewall/VM",
+  "external_paths": "D:/S: outside copied project and Codex runtime access blocked by Python audit hook",
+  "system_python_node": "PATH contains only Windows System32; bundled Python -I; all sys.path entries inside relocated package",
+  "unit_tests": 8,
+  "n": 159,
+  "excluded": 21,
+  "baseline": 24,
+  "output_checks": 134,
+  "csv_png_comparisons": [
+    {
+      "path": "01_audit/01_01_file_inventory.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_02_dataset_structure.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_03_duplicate_report.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_04_missing_values_report.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_05_kz_ru_question_alignment.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_06_response_category_alignment.csv",
+      "match": true
+    },
+    {
+      "path": "03_harmonization/03_01_BDSF_Kazakhstan_Harmonized_Dataset.csv",
+      "match": true
+    },
+    {
+      "path": "03_harmonization/03_03_BDSF_Kazakhstan_Bilingual_Question_Map.csv",
+      "match": true
+    },
+    {
+      "path": "04_cleaning/04_01_BDSF_Kazakhstan_Clean_Dataset.csv",
+      "match": true
+    },
+    {
+      "path": "04_cleaning/04_03_BDSF_Kazakhstan_Exclusion_Log.csv",
+      "match": true
+    },
+    {
+      "path": "05_scoring/05_01_BDSF_Kazakhstan_Scored_Dataset.csv",
+      "match": true
+    },
+    {
+      "path": "05_scoring/05_03_BDSF_Kazakhstan_Scoring_QC.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_02_BDSF_Kazakhstan_Indicator_Statistics.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_03_BDSF_Kazakhstan_Dimension_Statistics.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_04_BDSF_Kazakhstan_Group_Descriptives.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_05_BDSF_Kazakhstan_Level_Distribution.csv",
+      "match": true
+    },
+    {
+      "path": "07_reliability_analysis/07_02_BDSF_Kazakhstan_Scale_Reliability.csv",
+      "match": true
+    },
+    {
+      "path": "07_reliability_analysis/07_03_BDSF_Kazakhstan_Item_Diagnostics.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_02_BDSF_Kazakhstan_Item_Correlation_Matrix.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_03_BDSF_Kazakhstan_Factor_Loadings.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_04_BDSF_Kazakhstan_Validity_Indices.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_05_BDSF_Kazakhstan_Parallel_Analysis.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_06_BDSF_Kazakhstan_Factor_Correlations.csv",
+      "match": true
+    },
+    {
+      "path": "09_group_comparison/09_02_BDSF_Kazakhstan_Two_Group_Comparisons.csv",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_02_Figure_1_Dimension_Means.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_03_Figure_2_Indicator_Means.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_04_Figure_3_Reliability.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_05_Figure_4_Factor_Loadings.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_07_Table_1_Sample_Characteristics.csv",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_08_Table_2_Main_Results.csv",
+      "match": true
+    }
+  ],
+  "article_xml_identical": true,
+  "invalid_input_exit_code": 1,
+  "previous_results_preserved": true,
+  "limitation": "Same Windows host; not a separate clean computer or VM. Native libraries are not OS-sandboxed.",
+  "final_comparisons": [
+    {
+      "path": "01_audit/01_01_file_inventory.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_02_dataset_structure.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_03_duplicate_report.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_04_missing_values_report.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_05_kz_ru_question_alignment.csv",
+      "match": true
+    },
+    {
+      "path": "01_audit/01_06_response_category_alignment.csv",
+      "match": true
+    },
+    {
+      "path": "03_harmonization/03_01_BDSF_Kazakhstan_Harmonized_Dataset.csv",
+      "match": true
+    },
+    {
+      "path": "03_harmonization/03_02_BDSF_Kazakhstan_Codebook.xlsx",
+      "match": true
+    },
+    {
+      "path": "03_harmonization/03_03_BDSF_Kazakhstan_Bilingual_Question_Map.csv",
+      "match": true
+    },
+    {
+      "path": "04_cleaning/04_01_BDSF_Kazakhstan_Clean_Dataset.csv",
+      "match": true
+    },
+    {
+      "path": "04_cleaning/04_02_BDSF_Kazakhstan_Validation_Report.xlsx",
+      "match": true
+    },
+    {
+      "path": "04_cleaning/04_03_BDSF_Kazakhstan_Exclusion_Log.csv",
+      "match": true
+    },
+    {
+      "path": "05_scoring/05_01_BDSF_Kazakhstan_Scored_Dataset.csv",
+      "match": true
+    },
+    {
+      "path": "05_scoring/05_02_BDSF_Kazakhstan_Scoring_Report.xlsx",
+      "match": true
+    },
+    {
+      "path": "05_scoring/05_03_BDSF_Kazakhstan_Scoring_QC.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_01_BDSF_Kazakhstan_Descriptive_Statistics.xlsx",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_02_BDSF_Kazakhstan_Indicator_Statistics.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_03_BDSF_Kazakhstan_Dimension_Statistics.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_04_BDSF_Kazakhstan_Group_Descriptives.csv",
+      "match": true
+    },
+    {
+      "path": "06_descriptive_analysis/06_05_BDSF_Kazakhstan_Level_Distribution.csv",
+      "match": true
+    },
+    {
+      "path": "07_reliability_analysis/07_01_BDSF_Kazakhstan_Reliability_Analysis.xlsx",
+      "match": true
+    },
+    {
+      "path": "07_reliability_analysis/07_02_BDSF_Kazakhstan_Scale_Reliability.csv",
+      "match": true
+    },
+    {
+      "path": "07_reliability_analysis/07_03_BDSF_Kazakhstan_Item_Diagnostics.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_01_BDSF_Kazakhstan_Construct_Validity.xlsx",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_02_BDSF_Kazakhstan_Item_Correlation_Matrix.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_03_BDSF_Kazakhstan_Factor_Loadings.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_04_BDSF_Kazakhstan_Validity_Indices.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_05_BDSF_Kazakhstan_Parallel_Analysis.csv",
+      "match": true
+    },
+    {
+      "path": "08_construct_validity/08_06_BDSF_Kazakhstan_Factor_Correlations.csv",
+      "match": true
+    },
+    {
+      "path": "09_group_comparison/09_01_BDSF_Kazakhstan_Group_Comparisons.xlsx",
+      "match": true
+    },
+    {
+      "path": "09_group_comparison/09_02_BDSF_Kazakhstan_Two_Group_Comparisons.csv",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_01_BDSF_Kazakhstan_Publication_Tables.xlsx",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_02_Figure_1_Dimension_Means.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_03_Figure_2_Indicator_Means.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_04_Figure_3_Reliability.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_05_Figure_4_Factor_Loadings.png",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_07_Table_1_Sample_Characteristics.csv",
+      "match": true
+    },
+    {
+      "path": "11_figures_and_tables/11_08_Table_2_Main_Results.csv",
+      "match": true
+    },
+    {
+      "path": "article OOXML",
+      "match": true
+    }
+  ],
+  "immutable_sources_and_scientific_code": "Scientific inputs/code identical to pre-portability backup; author-updated protocol verified against protocol_revision.json",
+  "absolute_author_paths_in_active_code": []
+}
