@@ -1,0 +1,132 @@
+## LOADINGS:
+
+D1 =~ c(NA, NA)*Q01 + c(lambda.1_1.g1, lambda.1_1.g2)*Q01
+D1 =~ c(NA, NA)*Q02 + c(lambda.2_1.g1, lambda.2_1.g2)*Q02
+D1 =~ c(NA, NA)*Q03 + c(lambda.3_1.g1, lambda.3_1.g2)*Q03
+D1 =~ c(NA, NA)*Q04 + c(lambda.4_1.g1, lambda.4_1.g2)*Q04
+D2 =~ c(NA, NA)*Q05 + c(lambda.5_2.g1, lambda.5_2.g2)*Q05
+D2 =~ c(NA, NA)*Q06 + c(lambda.6_2.g1, lambda.6_2.g2)*Q06
+D2 =~ c(NA, NA)*Q07 + c(lambda.7_2.g1, lambda.7_2.g2)*Q07
+D3 =~ c(NA, NA)*Q08 + c(lambda.8_3.g1, lambda.8_3.g2)*Q08
+D3 =~ c(NA, NA)*Q09 + c(lambda.9_3.g1, lambda.9_3.g2)*Q09
+D3 =~ c(NA, NA)*Q10 + c(lambda.10_3.g1, lambda.10_3.g2)*Q10
+D3 =~ c(NA, NA)*Q11 + c(lambda.11_3.g1, lambda.11_3.g2)*Q11
+D4 =~ c(NA, NA)*Q12 + c(lambda.12_4.g1, lambda.12_4.g2)*Q12
+D4 =~ c(NA, NA)*Q13 + c(lambda.13_4.g1, lambda.13_4.g2)*Q13
+D4 =~ c(NA, NA)*Q14 + c(lambda.14_4.g1, lambda.14_4.g2)*Q14
+
+## THRESHOLDS:
+
+Q01 | c(NA, NA)*t1 + c(Q01.thr1, Q01.thr1)*t1
+Q01 | c(NA, NA)*t2 + c(Q01.thr2, Q01.thr2)*t2
+Q01 | c(NA, NA)*t3 + c(Q01.thr3, Q01.thr3)*t3
+Q02 | c(NA, NA)*t1 + c(Q02.thr1, Q02.thr1)*t1
+Q02 | c(NA, NA)*t2 + c(Q02.thr2, Q02.thr2)*t2
+Q02 | c(NA, NA)*t3 + c(Q02.thr3, Q02.thr3)*t3
+Q02 | c(NA, NA)*t4 + c(Q02.thr4, Q02.thr4)*t4
+Q03 | c(NA, NA)*t1 + c(Q03.thr1, Q03.thr1)*t1
+Q03 | c(NA, NA)*t2 + c(Q03.thr2, Q03.thr2)*t2
+Q03 | c(NA, NA)*t3 + c(Q03.thr3, Q03.thr3)*t3
+Q03 | c(NA, NA)*t4 + c(Q03.thr4, Q03.thr4)*t4
+Q04 | c(NA, NA)*t1 + c(Q04.thr1, Q04.thr1)*t1
+Q04 | c(NA, NA)*t2 + c(Q04.thr2, Q04.thr2)*t2
+Q04 | c(NA, NA)*t3 + c(Q04.thr3, Q04.thr3)*t3
+Q04 | c(NA, NA)*t4 + c(Q04.thr4, Q04.thr4)*t4
+Q05 | c(NA, NA)*t1 + c(Q05.thr1, Q05.thr1)*t1
+Q05 | c(NA, NA)*t2 + c(Q05.thr2, Q05.thr2)*t2
+Q05 | c(NA, NA)*t3 + c(Q05.thr3, Q05.thr3)*t3
+Q05 | c(NA, NA)*t4 + c(Q05.thr4, Q05.thr4)*t4
+Q06 | c(NA, NA)*t1 + c(Q06.thr1, Q06.thr1)*t1
+Q06 | c(NA, NA)*t2 + c(Q06.thr2, Q06.thr2)*t2
+Q06 | c(NA, NA)*t3 + c(Q06.thr3, Q06.thr3)*t3
+Q06 | c(NA, NA)*t4 + c(Q06.thr4, Q06.thr4)*t4
+Q07 | c(NA, NA)*t1 + c(Q07.thr1, Q07.thr1)*t1
+Q07 | c(NA, NA)*t2 + c(Q07.thr2, Q07.thr2)*t2
+Q07 | c(NA, NA)*t3 + c(Q07.thr3, Q07.thr3)*t3
+Q07 | c(NA, NA)*t4 + c(Q07.thr4, Q07.thr4)*t4
+Q08 | c(NA, NA)*t1 + c(Q08.thr1, Q08.thr1)*t1
+Q08 | c(NA, NA)*t2 + c(Q08.thr2, Q08.thr2)*t2
+Q08 | c(NA, NA)*t3 + c(Q08.thr3, Q08.thr3)*t3
+Q08 | c(NA, NA)*t4 + c(Q08.thr4, Q08.thr4)*t4
+Q09 | c(NA, NA)*t1 + c(Q09.thr1, Q09.thr1)*t1
+Q09 | c(NA, NA)*t2 + c(Q09.thr2, Q09.thr2)*t2
+Q09 | c(NA, NA)*t3 + c(Q09.thr3, Q09.thr3)*t3
+Q09 | c(NA, NA)*t4 + c(Q09.thr4, Q09.thr4)*t4
+Q10 | c(NA, NA)*t1 + c(Q10.thr1, Q10.thr1)*t1
+Q10 | c(NA, NA)*t2 + c(Q10.thr2, Q10.thr2)*t2
+Q10 | c(NA, NA)*t3 + c(Q10.thr3, Q10.thr3)*t3
+Q10 | c(NA, NA)*t4 + c(Q10.thr4, Q10.thr4)*t4
+Q11 | c(NA, NA)*t1 + c(Q11.thr1, Q11.thr1)*t1
+Q11 | c(NA, NA)*t2 + c(Q11.thr2, Q11.thr2)*t2
+Q11 | c(NA, NA)*t3 + c(Q11.thr3, Q11.thr3)*t3
+Q11 | c(NA, NA)*t4 + c(Q11.thr4, Q11.thr4)*t4
+Q12 | c(NA, NA)*t1 + c(Q12.thr1, Q12.thr1)*t1
+Q12 | c(NA, NA)*t2 + c(Q12.thr2, Q12.thr2)*t2
+Q12 | c(NA, NA)*t3 + c(Q12.thr3, Q12.thr3)*t3
+Q12 | c(NA, NA)*t4 + c(Q12.thr4, Q12.thr4)*t4
+Q13 | c(NA, NA)*t1 + c(Q13.thr1, Q13.thr1)*t1
+Q13 | c(NA, NA)*t2 + c(Q13.thr2, Q13.thr2)*t2
+Q13 | c(NA, NA)*t3 + c(Q13.thr3, Q13.thr3)*t3
+Q13 | c(NA, NA)*t4 + c(Q13.thr4, Q13.thr4)*t4
+Q14 | c(NA, NA)*t1 + c(Q14.thr1, Q14.thr1)*t1
+Q14 | c(NA, NA)*t2 + c(Q14.thr2, Q14.thr2)*t2
+Q14 | c(NA, NA)*t3 + c(Q14.thr3, Q14.thr3)*t3
+Q14 | c(NA, NA)*t4 + c(Q14.thr4, Q14.thr4)*t4
+
+## INTERCEPTS:
+
+Q01 ~ c(0, NA)*1 + c(nu.1.g1, nu.1.g2)*1
+Q02 ~ c(0, NA)*1 + c(nu.2.g1, nu.2.g2)*1
+Q03 ~ c(0, NA)*1 + c(nu.3.g1, nu.3.g2)*1
+Q04 ~ c(0, NA)*1 + c(nu.4.g1, nu.4.g2)*1
+Q05 ~ c(0, NA)*1 + c(nu.5.g1, nu.5.g2)*1
+Q06 ~ c(0, NA)*1 + c(nu.6.g1, nu.6.g2)*1
+Q07 ~ c(0, NA)*1 + c(nu.7.g1, nu.7.g2)*1
+Q08 ~ c(0, NA)*1 + c(nu.8.g1, nu.8.g2)*1
+Q09 ~ c(0, NA)*1 + c(nu.9.g1, nu.9.g2)*1
+Q10 ~ c(0, NA)*1 + c(nu.10.g1, nu.10.g2)*1
+Q11 ~ c(0, NA)*1 + c(nu.11.g1, nu.11.g2)*1
+Q12 ~ c(0, NA)*1 + c(nu.12.g1, nu.12.g2)*1
+Q13 ~ c(0, NA)*1 + c(nu.13.g1, nu.13.g2)*1
+Q14 ~ c(0, NA)*1 + c(nu.14.g1, nu.14.g2)*1
+
+## UNIQUE-FACTOR VARIANCES:
+
+Q01 ~~ c(1, NA)*Q01 + c(theta.1_1.g1, theta.1_1.g2)*Q01
+Q02 ~~ c(1, NA)*Q02 + c(theta.2_2.g1, theta.2_2.g2)*Q02
+Q03 ~~ c(1, NA)*Q03 + c(theta.3_3.g1, theta.3_3.g2)*Q03
+Q04 ~~ c(1, NA)*Q04 + c(theta.4_4.g1, theta.4_4.g2)*Q04
+Q05 ~~ c(1, NA)*Q05 + c(theta.5_5.g1, theta.5_5.g2)*Q05
+Q06 ~~ c(1, NA)*Q06 + c(theta.6_6.g1, theta.6_6.g2)*Q06
+Q07 ~~ c(1, NA)*Q07 + c(theta.7_7.g1, theta.7_7.g2)*Q07
+Q08 ~~ c(1, NA)*Q08 + c(theta.8_8.g1, theta.8_8.g2)*Q08
+Q09 ~~ c(1, NA)*Q09 + c(theta.9_9.g1, theta.9_9.g2)*Q09
+Q10 ~~ c(1, NA)*Q10 + c(theta.10_10.g1, theta.10_10.g2)*Q10
+Q11 ~~ c(1, NA)*Q11 + c(theta.11_11.g1, theta.11_11.g2)*Q11
+Q12 ~~ c(1, NA)*Q12 + c(theta.12_12.g1, theta.12_12.g2)*Q12
+Q13 ~~ c(1, NA)*Q13 + c(theta.13_13.g1, theta.13_13.g2)*Q13
+Q14 ~~ c(1, NA)*Q14 + c(theta.14_14.g1, theta.14_14.g2)*Q14
+
+## LATENT MEANS/INTERCEPTS:
+
+D1 ~ c(0, 0)*1 + c(alpha.1.g1, alpha.1.g2)*1
+D2 ~ c(0, 0)*1 + c(alpha.2.g1, alpha.2.g2)*1
+D3 ~ c(0, 0)*1 + c(alpha.3.g1, alpha.3.g2)*1
+D4 ~ c(0, 0)*1 + c(alpha.4.g1, alpha.4.g2)*1
+
+## COMMON-FACTOR VARIANCES:
+
+D1 ~~ c(1, 1)*D1 + c(psi.1_1.g1, psi.1_1.g2)*D1
+D2 ~~ c(1, 1)*D2 + c(psi.2_2.g1, psi.2_2.g2)*D2
+D3 ~~ c(1, 1)*D3 + c(psi.3_3.g1, psi.3_3.g2)*D3
+D4 ~~ c(1, 1)*D4 + c(psi.4_4.g1, psi.4_4.g2)*D4
+
+## COMMON-FACTOR COVARIANCES:
+
+D1 ~~ c(NA, NA)*D2 + c(psi.2_1.g1, psi.2_1.g2)*D2
+D1 ~~ c(NA, NA)*D3 + c(psi.3_1.g1, psi.3_1.g2)*D3
+D1 ~~ c(NA, NA)*D4 + c(psi.4_1.g1, psi.4_1.g2)*D4
+D2 ~~ c(NA, NA)*D3 + c(psi.3_2.g1, psi.3_2.g2)*D3
+D2 ~~ c(NA, NA)*D4 + c(psi.4_2.g1, psi.4_2.g2)*D4
+D3 ~~ c(NA, NA)*D4 + c(psi.4_3.g1, psi.4_3.g2)*D4
+

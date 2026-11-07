@@ -1,0 +1,22 @@
+
+This is lavaan 0.7-3
+lavaan is FREE software! Please report any bugs.
+Warning message:
+package 'lavaan' was built under R version 4.5.3 
+ 
+###############################################################################
+This is semTools 0.5-10
+All users of R (or SEM) are invited to submit functions or ideas for functions.
+###############################################################################
+Warning message:
+package 'semTools' was built under R version 4.5.3 
+Warning messages:
+1: lavaan->lav_object_post_check():  
+   covariance matrix of latent variables is not positive definite in group 
+   KZ; use lavInspect(fit, "cov.lv") to investigate. 
+2: lavaan->lav_object_post_check():  
+   covariance matrix of latent variables is not positive definite in group 
+   KZ; use lavInspect(fit, "cov.lv") to investigate. 
+3: lavaan->lav_object_post_check():  
+   covariance matrix of latent variables is not positive definite in group 
+   KZ; use lavInspect(fit, "cov.lv") to investigate. 

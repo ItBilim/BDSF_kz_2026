@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "prior_published_files_unchanged": 4854,
+  "explicit_exception": "Existing local 13_05 README differs from previously published distribution; not modified by section 19",
+  "relocation": {
+    "status": "PASS",
+    "csv_files_identical": 48,
+    "package_metadata_equal_after_row_sort": true,
+    "package_metadata_byte_difference": "Locale-dependent row order only",
+    "fresh_raw_reconstruction": true,
+    "isolated_python": true,
+    "system_dependency_path_removed": true,
+    "bundled_R_and_Python": true,
+    "relocated_to": "D:\\Projects\\BDSF_kz_2026\\work\\Тәуелсіз тексеру 19\\Көшірілген жоба 03",
+    "network_os_blocked": false,
+    "separate_computer": false,
+    "independent_researcher": false,
+    "scope": "Section 19 raw scoring, sensitivity and 18 CFA models; not the complete legacy manuscript pipeline"
+  }
+}

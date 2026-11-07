@@ -1,0 +1,12 @@
+{
+  "original_5_category_invariance": "NOT_ESTIMABLE: RU Q01 category 0 absent",
+  "diagnostic_only": "Merge Q01 categories 0 and 1 in BOTH languages for MG models only; primary scoring and sensitivity unchanged",
+  "empty_cells": [
+    {
+      "language": "RU",
+      "item": "Q01",
+      "category": 0,
+      "n": 0
+    }
+  ]
+}

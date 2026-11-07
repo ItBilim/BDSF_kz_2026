@@ -50,3 +50,11 @@ These are analyses of the same collected sample, not independent validation. A d
 All required research code, sources, outputs, aggregate checkpoints and runtimes are tracked. Temporary `work/` directories, personal environments, build/recovery copies and installation logs are excluded. Section 18 selection lists contain technical IDs only; no new raw-response copies are published from working folders.
 
 `PACKAGE_MANIFEST.csv` records SHA-256 and byte size for all tracked distribution files except itself. Historical section-specific manifests and validation snapshots are retained as records of their respective runs. Third-party components retain their own licenses; the root LICENSE does not replace them.
+
+## Reviewer diagnostics and completed article tables
+
+- [Section 19: full reviewer response](19_reviewer_experiments/REVIEWER_RESPONSE_KK.md): raw-data verification, complete CFA parameters, diagnostic ordinal language models, and a same-computer relocation check. Four-factor MG models were inadmissible; language equivalence was not established. This is not external independent replication.
+- [Section 20: article-ready Table 9 and factor diagnostics](20_article_statistical_completion/BDSF_ARTICLE_TABLES.md): full S0–S4 statistics, missing SD values, loadings/SE/CI, correlations, diagnostics, and the 48-file audit.
+- Run the table completion: `20_article_statistical_completion\RUN_TABLES.cmd`.
+
+Sections 19 and 20 are separate supplements; the full manuscript DOCX has not been overwritten. The original n=159 scoring and previous results are unchanged. All new input hashes, numerical differences and audit limitations are included.

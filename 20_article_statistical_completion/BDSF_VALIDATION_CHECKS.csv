@@ -1,0 +1,231 @@
+﻿check,passed
+KZ question order,True
+RU question order,True
+180 raw / 21 minors,True
+159 retained,True
+all item scores exact,True
+all M1 scores,True
+S1/S3 identical 18 exclusions,True
+S0 poly null shape,True
+S0 poly permutation 1,True
+S0 poly permutation 2,True
+S0/M,True
+S0/SD,True
+S0/Cronbach_alpha,True
+S0/McDonald_omega,True
+S0/KMO,True
+S0/Bartlett_chi2,True
+S0/Bartlett_df,True
+S0/Pearson_PA_factors,True
+S0/Polychoric_PA_factors,True
+S0/Bartlett_log_p,True
+S1 poly cache fingerprint,True
+S1 poly null shape,True
+S1 poly permutation 1,True
+S1 poly permutation 2,True
+S1/M,True
+S1/SD,True
+S1/Cronbach_alpha,True
+S1/McDonald_omega,True
+S1/KMO,True
+S1/Bartlett_chi2,True
+S1/Bartlett_df,True
+S1/Pearson_PA_factors,True
+S1/Polychoric_PA_factors,True
+S1/Bartlett_log_p,True
+S2 poly cache fingerprint,True
+S2 poly null shape,True
+S2 poly permutation 1,True
+S2 poly permutation 2,True
+S2/M,True
+S2/SD,True
+S2/Cronbach_alpha,True
+S2/McDonald_omega,True
+S2/KMO,True
+S2/Bartlett_chi2,True
+S2/Bartlett_df,True
+S2/Pearson_PA_factors,True
+S2/Polychoric_PA_factors,True
+S2/Bartlett_log_p,True
+S4 poly cache fingerprint,True
+S4 poly null shape,True
+S4 poly permutation 1,True
+S4 poly permutation 2,True
+S4/M,True
+S4/SD,True
+S4/Cronbach_alpha,True
+S4/McDonald_omega,True
+S4/KMO,True
+S4/Bartlett_chi2,True
+S4/Bartlett_df,True
+S4/Pearson_PA_factors,True
+S4/Polychoric_PA_factors,True
+S4/Bartlett_log_p,True
+OneFactor 14 loadings,True
+FourFactor 14 loadings,True
+six factor correlations,True
+OneFactor/CFI,True
+OneFactor/TLI,True
+OneFactor/RMSEA,True
+OneFactor/SRMR,True
+OneFactor/CFI_robust,True
+OneFactor/TLI_robust,True
+OneFactor/RMSEA_robust,True
+FourFactor/CFI,True
+FourFactor/TLI,True
+FourFactor/RMSEA,True
+FourFactor/SRMR,True
+FourFactor/CFI_robust,True
+FourFactor/TLI_robust,True
+FourFactor/RMSEA_robust,True
+MG_OneFactor_configural/RMSEA,True
+MG_OneFactor_configural/CFI_robust,True
+MG_OneFactor_metric/step_LRT_p,True
+MG_OneFactor_scalar/step_LRT_p,True
+MG_FourFactor_configural/min_latent_eigen,True
+48 scientific ledger entries,True
+archived original CATEGORY_COUNTS.csv,True
+ledger pair CATEGORY_COUNTS.csv,True
+current relocated CATEGORY_COUNTS.csv,True
+archived original CFA_ALL_MODELS.csv,True
+ledger pair CFA_ALL_MODELS.csv,True
+current relocated CFA_ALL_MODELS.csv,True
+archived original CFA_REPRODUCTION_CHECKS.csv,True
+ledger pair CFA_REPRODUCTION_CHECKS.csv,True
+current relocated CFA_REPRODUCTION_CHECKS.csv,True
+archived original INVARIANCE_DELTAS.csv,True
+ledger pair INVARIANCE_DELTAS.csv,True
+current relocated INVARIANCE_DELTAS.csv,True
+archived original MG_FourFactor_metric_LRT.csv,True
+ledger pair MG_FourFactor_metric_LRT.csv,True
+current relocated MG_FourFactor_metric_LRT.csv,True
+archived original MG_FourFactor_scalar_LRT.csv,True
+ledger pair MG_FourFactor_scalar_LRT.csv,True
+current relocated MG_FourFactor_scalar_LRT.csv,True
+archived original MG_FourFactor_thresholds_LRT.csv,True
+ledger pair MG_FourFactor_thresholds_LRT.csv,True
+current relocated MG_FourFactor_thresholds_LRT.csv,True
+archived original MG_OneFactor_metric_LRT.csv,True
+ledger pair MG_OneFactor_metric_LRT.csv,True
+current relocated MG_OneFactor_metric_LRT.csv,True
+archived original MG_OneFactor_scalar_LRT.csv,True
+ledger pair MG_OneFactor_scalar_LRT.csv,True
+current relocated MG_OneFactor_scalar_LRT.csv,True
+archived original MG_OneFactor_thresholds_LRT.csv,True
+ledger pair MG_OneFactor_thresholds_LRT.csv,True
+current relocated MG_OneFactor_thresholds_LRT.csv,True
+archived original ordinal_input.csv,True
+ledger pair ordinal_input.csv,True
+current relocated ordinal_input.csv,True
+archived original SENSITIVITY_COMPLETE.csv,True
+ledger pair SENSITIVITY_COMPLETE.csv,True
+current relocated SENSITIVITY_COMPLETE.csv,True
+archived original parameters/MG_FourFactor_configural_parameters.csv,True
+ledger pair parameters/MG_FourFactor_configural_parameters.csv,True
+current relocated parameters/MG_FourFactor_configural_parameters.csv,True
+archived original parameters/MG_FourFactor_configural_standardized.csv,True
+ledger pair parameters/MG_FourFactor_configural_standardized.csv,True
+current relocated parameters/MG_FourFactor_configural_standardized.csv,True
+archived original parameters/MG_FourFactor_metric_parameters.csv,True
+ledger pair parameters/MG_FourFactor_metric_parameters.csv,True
+current relocated parameters/MG_FourFactor_metric_parameters.csv,True
+archived original parameters/MG_FourFactor_metric_standardized.csv,True
+ledger pair parameters/MG_FourFactor_metric_standardized.csv,True
+current relocated parameters/MG_FourFactor_metric_standardized.csv,True
+archived original parameters/MG_FourFactor_scalar_parameters.csv,True
+ledger pair parameters/MG_FourFactor_scalar_parameters.csv,True
+current relocated parameters/MG_FourFactor_scalar_parameters.csv,True
+archived original parameters/MG_FourFactor_scalar_standardized.csv,True
+ledger pair parameters/MG_FourFactor_scalar_standardized.csv,True
+current relocated parameters/MG_FourFactor_scalar_standardized.csv,True
+archived original parameters/MG_FourFactor_thresholds_parameters.csv,True
+ledger pair parameters/MG_FourFactor_thresholds_parameters.csv,True
+current relocated parameters/MG_FourFactor_thresholds_parameters.csv,True
+archived original parameters/MG_FourFactor_thresholds_standardized.csv,True
+ledger pair parameters/MG_FourFactor_thresholds_standardized.csv,True
+current relocated parameters/MG_FourFactor_thresholds_standardized.csv,True
+archived original parameters/MG_OneFactor_configural_parameters.csv,True
+ledger pair parameters/MG_OneFactor_configural_parameters.csv,True
+current relocated parameters/MG_OneFactor_configural_parameters.csv,True
+archived original parameters/MG_OneFactor_configural_standardized.csv,True
+ledger pair parameters/MG_OneFactor_configural_standardized.csv,True
+current relocated parameters/MG_OneFactor_configural_standardized.csv,True
+archived original parameters/MG_OneFactor_metric_parameters.csv,True
+ledger pair parameters/MG_OneFactor_metric_parameters.csv,True
+current relocated parameters/MG_OneFactor_metric_parameters.csv,True
+archived original parameters/MG_OneFactor_metric_standardized.csv,True
+ledger pair parameters/MG_OneFactor_metric_standardized.csv,True
+current relocated parameters/MG_OneFactor_metric_standardized.csv,True
+archived original parameters/MG_OneFactor_scalar_parameters.csv,True
+ledger pair parameters/MG_OneFactor_scalar_parameters.csv,True
+current relocated parameters/MG_OneFactor_scalar_parameters.csv,True
+archived original parameters/MG_OneFactor_scalar_standardized.csv,True
+ledger pair parameters/MG_OneFactor_scalar_standardized.csv,True
+current relocated parameters/MG_OneFactor_scalar_standardized.csv,True
+archived original parameters/MG_OneFactor_thresholds_parameters.csv,True
+ledger pair parameters/MG_OneFactor_thresholds_parameters.csv,True
+current relocated parameters/MG_OneFactor_thresholds_parameters.csv,True
+archived original parameters/MG_OneFactor_thresholds_standardized.csv,True
+ledger pair parameters/MG_OneFactor_thresholds_standardized.csv,True
+current relocated parameters/MG_OneFactor_thresholds_standardized.csv,True
+archived original parameters/S0_FourFactor_parameters.csv,True
+ledger pair parameters/S0_FourFactor_parameters.csv,True
+current relocated parameters/S0_FourFactor_parameters.csv,True
+archived original parameters/S0_FourFactor_standardized.csv,True
+ledger pair parameters/S0_FourFactor_standardized.csv,True
+current relocated parameters/S0_FourFactor_standardized.csv,True
+archived original parameters/S0_OneFactor_parameters.csv,True
+ledger pair parameters/S0_OneFactor_parameters.csv,True
+current relocated parameters/S0_OneFactor_parameters.csv,True
+archived original parameters/S0_OneFactor_standardized.csv,True
+ledger pair parameters/S0_OneFactor_standardized.csv,True
+current relocated parameters/S0_OneFactor_standardized.csv,True
+archived original parameters/S1_FourFactor_parameters.csv,True
+ledger pair parameters/S1_FourFactor_parameters.csv,True
+current relocated parameters/S1_FourFactor_parameters.csv,True
+archived original parameters/S1_FourFactor_standardized.csv,True
+ledger pair parameters/S1_FourFactor_standardized.csv,True
+current relocated parameters/S1_FourFactor_standardized.csv,True
+archived original parameters/S1_OneFactor_parameters.csv,True
+ledger pair parameters/S1_OneFactor_parameters.csv,True
+current relocated parameters/S1_OneFactor_parameters.csv,True
+archived original parameters/S1_OneFactor_standardized.csv,True
+ledger pair parameters/S1_OneFactor_standardized.csv,True
+current relocated parameters/S1_OneFactor_standardized.csv,True
+archived original parameters/S2_FourFactor_parameters.csv,True
+ledger pair parameters/S2_FourFactor_parameters.csv,True
+current relocated parameters/S2_FourFactor_parameters.csv,True
+archived original parameters/S2_FourFactor_standardized.csv,True
+ledger pair parameters/S2_FourFactor_standardized.csv,True
+current relocated parameters/S2_FourFactor_standardized.csv,True
+archived original parameters/S2_OneFactor_parameters.csv,True
+ledger pair parameters/S2_OneFactor_parameters.csv,True
+current relocated parameters/S2_OneFactor_parameters.csv,True
+archived original parameters/S2_OneFactor_standardized.csv,True
+ledger pair parameters/S2_OneFactor_standardized.csv,True
+current relocated parameters/S2_OneFactor_standardized.csv,True
+archived original parameters/S3_FourFactor_parameters.csv,True
+ledger pair parameters/S3_FourFactor_parameters.csv,True
+current relocated parameters/S3_FourFactor_parameters.csv,True
+archived original parameters/S3_FourFactor_standardized.csv,True
+ledger pair parameters/S3_FourFactor_standardized.csv,True
+current relocated parameters/S3_FourFactor_standardized.csv,True
+archived original parameters/S3_OneFactor_parameters.csv,True
+ledger pair parameters/S3_OneFactor_parameters.csv,True
+current relocated parameters/S3_OneFactor_parameters.csv,True
+archived original parameters/S3_OneFactor_standardized.csv,True
+ledger pair parameters/S3_OneFactor_standardized.csv,True
+current relocated parameters/S3_OneFactor_standardized.csv,True
+archived original parameters/S4_FourFactor_parameters.csv,True
+ledger pair parameters/S4_FourFactor_parameters.csv,True
+current relocated parameters/S4_FourFactor_parameters.csv,True
+archived original parameters/S4_FourFactor_standardized.csv,True
+ledger pair parameters/S4_FourFactor_standardized.csv,True
+current relocated parameters/S4_FourFactor_standardized.csv,True
+archived original parameters/S4_OneFactor_parameters.csv,True
+ledger pair parameters/S4_OneFactor_parameters.csv,True
+current relocated parameters/S4_OneFactor_parameters.csv,True
+archived original parameters/S4_OneFactor_standardized.csv,True
+ledger pair parameters/S4_OneFactor_standardized.csv,True
+current relocated parameters/S4_OneFactor_standardized.csv,True
+all sources unchanged,True

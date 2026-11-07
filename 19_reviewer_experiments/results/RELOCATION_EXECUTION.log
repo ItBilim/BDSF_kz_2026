@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "raw_n": 180,
+  "excluded_minors": 21,
+  "adults": 159,
+  "independent_raw_decoder": true,
+  "old_scores_reproduced": true,
+  "models_attempted": 18,
+  "models_converged": 18
+}
+

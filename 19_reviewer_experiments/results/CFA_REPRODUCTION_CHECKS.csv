@@ -1,0 +1,7 @@
+﻿model,metric,absolute_difference,tolerance,passed
+OneFactor,CFI,1.80451098508e-09,1e-05,True
+OneFactor,RMSEA,1.88772300569e-09,1e-05,True
+OneFactor,SRMR,2.4276873796e-08,1e-05,True
+FourFactor,CFI,1.43878697845e-09,1e-05,True
+FourFactor,RMSEA,1.92915429464e-09,1e-05,True
+FourFactor,SRMR,6.44902269781e-09,1e-05,True
