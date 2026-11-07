@@ -1,0 +1,76 @@
+# Автоматтандырылған тексерулер
+
+Тексеру саны: 72. Бәрі PASS.
+
+- PASS — Raw 180 records
+- PASS — 159 adults
+- PASS — No minors in analytical sample
+- PASS — Unique original technical IDs
+- PASS — Languages 81 and 78
+- PASS — Valid ordinal encoding
+- PASS — Original M1 formula
+- PASS — Original stored scores match raw reconstruction
+- PASS — Original quality flags match raw reconstruction
+- PASS — Exactly 20 flagged adults
+- PASS — Baseline mean
+- PASS — Baseline alpha
+- PASS — R WLSMV execution
+- PASS — Two CFA models evaluated
+- PASS — WLSMV explicitly used
+- PASS — CFA convergence
+- PASS — Required CFA fit measures finite
+- PASS — OneFactor admissibility assessed
+- PASS — OneFactor RMSEA CI ordered
+- PASS — FourFactor admissibility assessed
+- PASS — FourFactor RMSEA CI ordered
+- PASS — M3 oriented positively
+- PASS — M3 agrees with section 16
+- PASS — M3 coefficients preserved
+- PASS — M1 Top16 unique IDs
+- PASS — M2 Top16 unique IDs
+- PASS — M3 Top16 unique IDs
+- PASS — Jaccard bounds M1 M2 16
+- PASS — Jaccard bounds M1 M3 16
+- PASS — Jaccard bounds M2 M3 16
+- PASS — M1 Top32 unique IDs
+- PASS — M2 Top32 unique IDs
+- PASS — M3 Top32 unique IDs
+- PASS — Jaccard bounds M1 M2 32
+- PASS — Jaccard bounds M1 M3 32
+- PASS — Jaccard bounds M2 M3 32
+- PASS — M1 Top48 unique IDs
+- PASS — M2 Top48 unique IDs
+- PASS — M3 Top48 unique IDs
+- PASS — Jaccard bounds M1 M2 48
+- PASS — Jaccard bounds M1 M3 48
+- PASS — Jaccard bounds M2 M3 48
+- PASS — Top-K result finite
+- PASS — Exported sets agree M1 M2 16
+- PASS — Exported sets agree M1 M3 16
+- PASS — Exported sets agree M2 M3 16
+- PASS — Exported sets agree M1 M2 32
+- PASS — Exported sets agree M1 M3 32
+- PASS — Exported sets agree M2 M3 32
+- PASS — Exported sets agree M1 M2 48
+- PASS — Exported sets agree M1 M3 48
+- PASS — Exported sets agree M2 M3 48
+- PASS — S4 has 139
+- PASS — S0 is subset of S0
+- PASS — S0 finite positive definite Pearson matrix
+- PASS — S0 admissible one-factor omega
+- PASS — S1 is subset of S0
+- PASS — S1 finite positive definite Pearson matrix
+- PASS — S1 admissible one-factor omega
+- PASS — S2 is subset of S0
+- PASS — S2 finite positive definite Pearson matrix
+- PASS — S2 admissible one-factor omega
+- PASS — S3 is subset of S0
+- PASS — S4 is subset of S0
+- PASS — S4 finite positive definite Pearson matrix
+- PASS — S4 admissible one-factor omega
+- PASS — All quality results finite
+- PASS — S0 baseline alpha
+- PASS — 159 agrees with previous mean alpha omega
+- PASS — 139 agrees with previous mean alpha omega
+- PASS — Previous files unchanged
+- PASS — Seven independent test groups

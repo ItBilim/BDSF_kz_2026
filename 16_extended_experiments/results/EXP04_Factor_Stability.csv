@@ -1,0 +1,13 @@
+﻿comparison,factor,tucker_congruence
+KZ Pearson vs polychoric,F1,0.997793594819
+KZ Pearson vs polychoric,F2,0.997805048152
+KZ Pearson vs polychoric,F3,0.99697646496
+KZ Pearson vs polychoric,F4,0.996445803744
+RU Pearson vs polychoric,F1,0.990641828491
+RU Pearson vs polychoric,F2,0.983479925311
+RU Pearson vs polychoric,F3,0.989742232488
+RU Pearson vs polychoric,F4,0.993623288442
+KZ vs RU polychoric,F1,0.517171325618
+KZ vs RU polychoric,F2,0.517077727471
+KZ vs RU polychoric,F3,0.582775295663
+KZ vs RU polychoric,F4,0.631420661953

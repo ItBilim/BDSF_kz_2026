@@ -1,0 +1,6 @@
+﻿scenario,n,min_eigenvalue_raw,smoothed,max_abs_adjustment,null_matrices_smoothed
+S0,159,0.136711945336,False,0,0
+S1,141,0.172042544513,False,0,0
+S2,157,0.136556516042,False,0,0
+S3,141,0.172042544513,False,0,0
+S4,139,0.172113241802,False,0,0

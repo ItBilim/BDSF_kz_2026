@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "checks": 183,
+  "protected_files": 4852,
+  "seed": 20261107,
+  "polychoric_permutations": 200,
+  "repeat_checked": true,
+  "dependencies": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "factor-analyzer": "0.5.1",
+    "scikit-learn": "1.9.1"
+  },
+  "sources": {
+    "05_scoring/05_01_BDSF_Kazakhstan_Scored_Dataset.csv": "e1c39a0d3143ec9e4ce9d8860fea6b5e86f16097b4b2238e0454452eb79d28b1",
+    "03_harmonization/03_01_BDSF_Kazakhstan_Harmonized_Dataset.csv": "8f8b657577ce21da8f8c262fa165266666af34f614d736c8e74e82953e807edb",
+    "17_q3_additional_experiments/EXP03_QUALITY_RESULTS.csv": "aff34f1338665f7ffc8f11fd6efd5296d1e0be6f3f79b1cc8a655cf4da3d5aa9",
+    "17_q3_additional_experiments/EXP03_Quality_Sensitivity/parallel_analysis.csv": "20d9f7ece858e08eda61e40ca2dc8d056dbabe00549b6c6dca937b2dedf84271",
+    "17_q3_additional_experiments/EXP02_TopK_Stability/scores.csv": "922b5effe885dee314bba4c6ed96080d26d0f390983d3a72b7858f9354895f41",
+    "17_q3_additional_experiments/EXP02_TopK_Stability/M3_coefficients.csv": "0d0af42e04cc90b3cd47970776f0835ba59db8a9904c2b591dff0677bea328e5",
+    "17_q3_additional_experiments/EXP02_TOPK_RESULTS.csv": "c05d8455ebacf7325c910fb89f9021b08feb084d03181c387822935914dab490",
+    "17_q3_additional_experiments/EXP02_TopK_Stability/topk_selections.csv": "bb87f10602a05427356f779bfa36ec2ce511fc0b28ad06b4dfc0e41dba9a70eb",
+    "16_extended_experiments/results/EXP01_Polychoric_Parallel.csv": "23e8e1e5a9b27e995d490a51b1c19f4df635122875696922c3ff20dd09aba9e8",
+    "16_extended_experiments/results/POLY_Matrix_Diagnostics.csv": "57456a96216802450503b838088f8fe4f0808a11b74682d0973add81fc24003d"
+  },
+  "original_files_unchanged": true,
+  "output_sha256": {
+    "RQ2_FILTER_OVERLAP.csv": "9daa637d1eba39572e3075ef8da0ac34fe06429c169adb6c72bc6ef50c290920",
+    "RQ2_SENSITIVITY.csv": "75c0cb5abad734c257e24b6cbd90c8c1afac693057652474702f4b011d588c71",
+    "RQ3_TOPK_RESULTS.csv": "52055adee5483996dccba1fba328c40c3151822c2b55f3ca33132cf1395a7180",
+    "RQ3_TOPK_SELECTED.csv": "e915d0779110809f6f58a4e52540c38e1852dace38b5ba25fc5cf15bf0ad1350",
+    "diagnostics/POLYCHORIC_DIAGNOSTICS.csv": "7b905afec4915ab2eb042206aa148362b4d5e4b4ce2386226fed2c048bc83143",
+    "diagnostics/S0_POLY_PARALLEL.csv": "262991d25f538fb39ba1067636549a02b0d71774cf889711b1d51385b4297458",
+    "diagnostics/S1_POLY_PAIRS.csv": "f687b6e28ae8d25a28129d9706915d03b510d3596c95e339620d1a55bed67ef7",
+    "diagnostics/S1_POLY_PARALLEL.csv": "f6e28af84a1616cc325082cc38cd986bb78f59d95faf402a7b0262f25b5e4f82",
+    "diagnostics/S1_POLY_raw.csv": "1fc51d951695b54153c5868dc5240e5a77e9b6985de4efb1f2eca6ea306ccd3e",
+    "diagnostics/S1_POLY_used.csv": "1fc51d951695b54153c5868dc5240e5a77e9b6985de4efb1f2eca6ea306ccd3e",
+    "diagnostics/S2_POLY_PAIRS.csv": "c0dc840fa7f4f4ca1f84e3171b11b3ec578231379a2c1872849e286f575c8b8d",
+    "diagnostics/S2_POLY_PARALLEL.csv": "e3455d9bc11778c609035d9c196d2839695e5252c9c67c456d54e28884d9b4c1",
+    "diagnostics/S2_POLY_raw.csv": "f6743f6f7843fbf4a4e977867327f4a755e3b576267d3f06ec300b73fc2cde1c",
+    "diagnostics/S2_POLY_used.csv": "f6743f6f7843fbf4a4e977867327f4a755e3b576267d3f06ec300b73fc2cde1c",
+    "diagnostics/S3_POLY_PARALLEL.csv": "f6e28af84a1616cc325082cc38cd986bb78f59d95faf402a7b0262f25b5e4f82",
+    "diagnostics/S4_POLY_PAIRS.csv": "b8c92aa4ce37813c7b9e27110e39b5e44f89ec7eb655b70cf5a90d6ae7c67d02",
+    "diagnostics/S4_POLY_PARALLEL.csv": "6ee6c78855cc5e2081bf3dcb55a03bc36b355b7ad3171928cade8173e9ef3bb6",
+    "diagnostics/S4_POLY_raw.csv": "ba512473a7e98ac32579ca0f92dc93d3121c3085f44106f1fb767c945e31ade1",
+    "diagnostics/S4_POLY_used.csv": "ba512473a7e98ac32579ca0f92dc93d3121c3085f44106f1fb767c945e31ade1"
+  }
+}

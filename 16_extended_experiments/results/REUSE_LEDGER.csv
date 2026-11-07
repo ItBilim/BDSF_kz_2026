@@ -1,0 +1,20 @@
+﻿task,action
+N159 Pearson parallel 500 simulations,reused_verified_existing
+N159 four-factor EFA,loadings preserved; Phi order bug corrected in new outputs only
+poly_N159,cached_missing_analysis
+poly_pa_N159,cached_missing_analysis
+pa_N139,cached_missing_analysis
+"KZ alpha, item-total, four-factor, response frequencies",verified_and_reused
+"RU alpha, item-total, four-factor, response frequencies",verified_and_reused
+poly_KZ,cached_missing_analysis
+omega_boot_KZ_ALL14,cached_missing_analysis
+omega_boot_KZ_D1,cached_missing_analysis
+omega_boot_KZ_D2,cached_missing_analysis
+omega_boot_KZ_D3,cached_missing_analysis
+omega_boot_KZ_D4,cached_missing_analysis
+poly_RU,cached_missing_analysis
+omega_boot_RU_ALL14,cached_missing_analysis
+omega_boot_RU_D1,cached_missing_analysis
+omega_boot_RU_D2,cached_missing_analysis
+omega_boot_RU_D3,cached_missing_analysis
+omega_boot_RU_D4,cached_missing_analysis

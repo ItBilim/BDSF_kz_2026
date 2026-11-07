@@ -1,0 +1,10 @@
+﻿method,K,cutoff_score,tied_at_cutoff,selected_from_tie,tie_split
+M1,16,28.125,1,1,False
+M2,16,26.7857142857,4,4,False
+M3,16,-1.4594441099,1,1,False
+M1,32,46.875,2,1,True
+M2,32,46.4285714286,2,1,True
+M3,32,-0.6727167536,1,1,False
+M1,48,51.5625,1,1,False
+M2,48,51.7857142857,9,2,True
+M3,48,-0.3879001885,1,1,False

@@ -1,0 +1,13 @@
+
+test_cfa_admissibility_matches_exported_parameters (__main__.ResearchResults.test_cfa_admissibility_matches_exported_parameters) ... ok
+test_cfa_options_and_model_structure (__main__.ResearchResults.test_cfa_options_and_model_structure) ... ok
+test_fit_values_and_intervals (__main__.ResearchResults.test_fit_values_and_intervals) ... ok
+test_overlap_arithmetic (__main__.ResearchResults.test_overlap_arithmetic) ... ok
+test_primary_formula (__main__.ResearchResults.test_primary_formula) ... ok
+test_quality_subsets_and_counts (__main__.ResearchResults.test_quality_subsets_and_counts) ... ok
+test_topk_selection_is_deterministic (__main__.ResearchResults.test_topk_selection_is_deterministic) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.188s
+
+OK

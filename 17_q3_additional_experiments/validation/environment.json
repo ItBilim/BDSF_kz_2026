@@ -1,0 +1,15 @@
+{
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "factor-analyzer": "0.5.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "openpyxl": "3.1.5"
+  },
+  "seed": 20261107,
+  "parallel_analysis_seed": 20261030
+}

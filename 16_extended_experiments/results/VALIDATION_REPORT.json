@@ -1,0 +1,658 @@
+{
+  "status": "PASS",
+  "stages_completed": 16,
+  "checks": [
+    {
+      "check": "159 adults and 180 original rows",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Exact adult partition",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "No duplicated IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All 14 values complete and correctly coded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Language counts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Original M1 unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D1 items unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D2 items unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D3 items unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "D4 items unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ original response texts retained",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU original response texts retained",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Baseline mean and alpha",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Baseline KMO",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Baseline Bartlett_chi2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Stored parallel observed eigenvalues",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Existing oblique communalities",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Corrected model preserves original loadings",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All stored flags reproduce on original 180",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Exactly 20 flagged adults",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Sensitivity n139",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "M3 direction anchored to overall score",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Original category rule",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Language inputs SHA256",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Stored language hash 15_01_Reliability.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Stored language hash 15_02_Item_Total.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Stored language hash 15_03_Factor_Congruence.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Stored language hash 15_03_Factor_Loadings.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Stored language hash 15_04_Distribution_Differences.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Stored language hash 15_04_Response_Distributions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ previous loadings validation only",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ alpha ALL14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ alpha D1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q01",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q02",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q03",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q04",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ alpha D2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q05",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q06",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q07",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ alpha D3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q08",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q09",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ alpha D4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q13",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ ITC Q14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q01",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q02",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q03",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q04",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q05",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q06",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q07",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q08",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q09",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q13",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "KZ distribution Q14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU previous loadings validation only",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU alpha ALL14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU alpha D1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q01",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q02",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q03",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q04",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU alpha D2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q05",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q06",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q07",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU alpha D3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q08",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q09",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU alpha D4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q13",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU ITC Q14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q01",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q02",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q03",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q04",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q05",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q06",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q07",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q08",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q09",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q13",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "RU distribution Q14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Existing language Tucker coefficients",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "All previous source and result files unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "Protected files unchanged after reporting",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "numerical_tests": {
+    "cdf_max_error": 9.992007221626409e-16,
+    "synthetic_polychoric_true": 0.6,
+    "synthetic_polychoric_estimate": 0.5976707721940976,
+    "omega_identity": "PASS"
+  },
+  "input_fingerprint": "1cbdd2f2f4140b1c9f9392fe11931900c09b4fdca49357a8a282e36ba3c0ce88",
+  "protected_file_count": 93,
+  "protected_hashes": {
+    "00_sources/00_01_BDSF_Kazakhstan_Kazakh_Responses.csv": "0c2b610a8c1f66f5b9c4febc75c4b1d2015279fbabf001645527b426813fd05e",
+    "00_sources/00_02_BDSF_Kazakhstan_Russian_Responses.csv": "6f01ae3de687604aad4b019a5d964e0a7d58836c81addf7340a0e6d368250624",
+    "00_sources/00_03_BDSF_Kazakhstan_Survey_URLs.txt": "28614b21ed83b1abd6853fbda97a5fa2f53ee96ba8e1db77d14777ccb32e98c2",
+    "00_sources/00_04_BDSF_Kazakhstan_Research_Protocol_Extract.pdf": "2c5eb9392f1aeca762eca2fc04f3ed7ce9f731e1771afca3172ca75a40549588",
+    "01_audit/01_01_file_inventory.csv": "3cddc2e8b001973cd4e33d918d5e444fbbe6fae280ee86111637aaf392624317",
+    "01_audit/01_02_dataset_structure.csv": "7a1001baecb84dac40aadc48ccdbb7a6c7b79a6862503189b60642fe9b844b92",
+    "01_audit/01_03_duplicate_report.csv": "9161fd31e8067f528e952f521095a0b136d874a057921dde6ee1ea8bc2b9d6d0",
+    "01_audit/01_04_missing_values_report.csv": "8f426dabdec78342b98f12b1ad4ebe17411a8dcb3646bd84d48dcd022ed2f848",
+    "01_audit/01_05_kz_ru_question_alignment.csv": "15cfbe61d0fea6d289bf181591ef03b6baaa28c27d454aa0787371447fb8c164",
+    "01_audit/01_06_response_category_alignment.csv": "3f0bdb7a2e0d21d11d15fb9e3bb5dd3d1806de7ca5539af53fb88fc6c1501228",
+    "01_audit/01_07_protocol_compliance_check.md": "cd2f3597fdba04a9a52a246f4843768a84042abfde3c5771e950c26b6e67885a",
+    "01_audit/01_08_audit_report.md": "46a38347809b471da0b25868251238cfe7a62149dd6aec0785f23766b876d7aa",
+    "02_scoring_matrix/02_01_BDSF_Kazakhstan_Scoring_Matrix.xlsx": "ca86a8299b290791dd9adcf278ef7e1435c69cd61474fa81d8aa244881066faa",
+    "02_scoring_matrix/02_02_BDSF_Kazakhstan_Scoring_Specification.md": "22d50ac2282e1ae3f88c36265a5bcb8d1a8b7a5ea5f420d85dba36c448b84e39",
+    "03_harmonization/03_01_BDSF_Kazakhstan_Harmonized_Dataset.csv": "8f8b657577ce21da8f8c262fa165266666af34f614d736c8e74e82953e807edb",
+    "03_harmonization/03_02_BDSF_Kazakhstan_Codebook.xlsx": "f6bc0308bed5cd1ad21c5177b6ed398a2a4b1681e90b15ecc8b8a054cc5a0237",
+    "03_harmonization/03_03_BDSF_Kazakhstan_Bilingual_Question_Map.csv": "15cfbe61d0fea6d289bf181591ef03b6baaa28c27d454aa0787371447fb8c164",
+    "03_harmonization/03_04_BDSF_Kazakhstan_Harmonization_Rules.md": "93200a0c3d4185823aca7e1721fe8fe489e1d3279e0f73a3a9556e243873f771",
+    "03_harmonization/03_05_BDSF_Kazakhstan_Harmonization_Report.md": "656573f11b60c233989f8c662a9667f88f8305bc598649c3d07b50b925e283cf",
+    "04_cleaning/04_01_BDSF_Kazakhstan_Clean_Dataset.csv": "332eac97a84e262fa984538ea31ed523d5016afccc8c67aa91571f4156e61298",
+    "04_cleaning/04_02_BDSF_Kazakhstan_Validation_Report.xlsx": "8edd04a8b89300a64e1773baa2db8a155fa9a3b9177c507fdb1655489cc2f543",
+    "04_cleaning/04_03_BDSF_Kazakhstan_Exclusion_Log.csv": "e733676c31bc4525db5842dc30105ea9ee9d6b8b995d64a7237a93668a26a99a",
+    "04_cleaning/04_04_BDSF_Kazakhstan_Cleaning_Log.md": "c5c2edda266781d3aec0d2d977aa0b52fc97b1fb008d692f4134affa5c6815d9",
+    "04_cleaning/04_05_BDSF_Kazakhstan_Cleaning_Report.md": "24d8b7b2836029aaff3074d181dea43c374f4d567724ddbc16d387a35fdafa10",
+    "05_scoring/05_01_BDSF_Kazakhstan_Scored_Dataset.csv": "e1c39a0d3143ec9e4ce9d8860fea6b5e86f16097b4b2238e0454452eb79d28b1",
+    "05_scoring/05_02_BDSF_Kazakhstan_Scoring_Report.xlsx": "d97a05e9014db95f32aaf6a6a2b05a4d5f19c98d1208dc9c6a20759d0febeab7",
+    "05_scoring/05_03_BDSF_Kazakhstan_Scoring_QC.csv": "74b97dd360ef118f49fa0596cea47af8082282616f740ffaa20d80c1b2b8524d",
+    "05_scoring/05_04_BDSF_Kazakhstan_Scoring_Log.md": "5ab8cb3cb38f2558becf2bb501c4d2226800107f749d1bdb137d2ec0fd21067f",
+    "06_descriptive_analysis/06_01_BDSF_Kazakhstan_Descriptive_Statistics.xlsx": "66826ca74552635b0336e7d478f1b03371b0052e00974ec1e91899335a886077",
+    "06_descriptive_analysis/06_02_BDSF_Kazakhstan_Indicator_Statistics.csv": "343ac713c6daef0837b8350af223f70f8be9360f79156a6b671cc7c7298c895b",
+    "06_descriptive_analysis/06_03_BDSF_Kazakhstan_Dimension_Statistics.csv": "ce94b9c365931fe7398807dbd2c3a36633316231e97131b81004d293ec908147",
+    "06_descriptive_analysis/06_04_BDSF_Kazakhstan_Group_Descriptives.csv": "18f965cb96e41b3c81896703f928521ae97a4e3ec2aa05f2a5ceec08a43e3603",
+    "06_descriptive_analysis/06_05_BDSF_Kazakhstan_Level_Distribution.csv": "885b0c003d6c8b5587b02928cf093738fdf957e8c5e885badbc03b811d22d988",
+    "06_descriptive_analysis/06_06_BDSF_Kazakhstan_Descriptive_Report.md": "f54d56169f397f5037f9b2eecd4ee3071f0f5e50e48b1b25199b1422a982f7a6",
+    "07_reliability_analysis/07_01_BDSF_Kazakhstan_Reliability_Analysis.xlsx": "da0d9ab3c9a73a5a65c1632c76da68a06cceafeaec7e8dbb196cc9fa6e9ac580",
+    "07_reliability_analysis/07_02_BDSF_Kazakhstan_Scale_Reliability.csv": "c2c662a41e31bee5e8de68d0d2bbe0e9643960fa9dac0ebb981d0b4ba6669ddb",
+    "07_reliability_analysis/07_03_BDSF_Kazakhstan_Item_Diagnostics.csv": "a3e98035dd918c994bb089ebfac3e9289b2ed9e488bf5feebe28eb3737874ce6",
+    "07_reliability_analysis/07_04_BDSF_Kazakhstan_Reliability_Report.md": "fa04a5c26c93e1babb2bf4deea4c08b83012f0c52627373235deb8dc5f73850a",
+    "08_construct_validity/08_01_BDSF_Kazakhstan_Construct_Validity.xlsx": "d3e6089a69a692a78cf9b7c00f5c1db370c50d818b4dc348a80a4b9da40d21cd",
+    "08_construct_validity/08_02_BDSF_Kazakhstan_Item_Correlation_Matrix.csv": "7ce02c42e58f436bf441c4d9302891bbcf19719a051d025223f459f67cc38ad4",
+    "08_construct_validity/08_03_BDSF_Kazakhstan_Factor_Loadings.csv": "77b098e784b7b9750503debcf3710d0f02397949020b1aa46313b6a7e8460295",
+    "08_construct_validity/08_04_BDSF_Kazakhstan_Validity_Indices.csv": "86129488f15e919270dea2c8d91242019a52a37e4377a9dc79bf5dc2a21db64b",
+    "08_construct_validity/08_05_BDSF_Kazakhstan_Parallel_Analysis.csv": "09bede25676582e99c7d73d23df2c34d9a1f37e68f045d17e9cf3486dd2e0893",
+    "08_construct_validity/08_06_BDSF_Kazakhstan_Factor_Correlations.csv": "b0f4239036f9c108f011c4a235da7542eaf927f494a7f1436763221673256584",
+    "08_construct_validity/08_07_BDSF_Kazakhstan_Validity_Report.md": "c3b2583c3d17f998cf32966c0b65a447322d22090145c15ea7fa57ccb20aef41",
+    "09_group_comparison/09_01_BDSF_Kazakhstan_Group_Comparisons.xlsx": "c1664a21c8ea7a51d452d45fe848d7403c4a1cd5c1ed4bc21534e8bb22feb80c",
+    "09_group_comparison/09_02_BDSF_Kazakhstan_Two_Group_Comparisons.csv": "f72a183ef8c14238b6f2b4eb9d83f8b2fcdfc29316f7f0955199209aaebb16a3",
+    "09_group_comparison/09_07_BDSF_Kazakhstan_Group_Comparison_Report.md": "d43efd050ec0d30b6146775d0d3282943a4b6f0408a8289ce5b887e04f498ade",
+    "11_figures_and_tables/11_01_BDSF_Kazakhstan_Publication_Tables.xlsx": "9fe2a27c3c7e3bc3c6c399c1d79b56b7c72494bd52cdbcfaf5f03f63b5aa729a",
+    "11_figures_and_tables/11_02_Figure_1_Dimension_Means.png": "0a0e6be8319787e5fdba66818c780ea14a562d049d7acd0c21c92f82bba54e8f",
+    "11_figures_and_tables/11_03_Figure_2_Indicator_Means.png": "6390a76391e086d1c70811f1eb1ec15ded50594091585ef3102c8b33a4b6073e",
+    "11_figures_and_tables/11_04_Figure_3_Reliability.png": "f2af2a92852cc35b004130ad4096068cf992793e3a716c744a820c7ed657ee53",
+    "11_figures_and_tables/11_05_Figure_4_Factor_Loadings.png": "a3dea97b3b0f006aadae3dcf535e727c90f5b4a59e0db33525580cc2d14f8229",
+    "11_figures_and_tables/11_07_Table_1_Sample_Characteristics.csv": "9704e99fb1754ac1a0172af72bcf4b2518cc5a8c401eb72298e510fa2e72b198",
+    "11_figures_and_tables/11_08_Table_2_Main_Results.csv": "d41a8a522446c3bcb81c03b923c386a0fb4bebb59a405f3490f6880b021d6b46",
+    "11_figures_and_tables/11_09_Figure_and_Table_Guide.md": "2bec9825240d1ff55eddce1d4a67fbe05203116f04faf758a52833c6dab76e72",
+    "12_article_results/12_01_BDSF_Kazakhstan_Full_Updated_Article.docx": "592cb9d5d2f3a4ad8ec71524ce9a8b088c863d73f0eee2b98053af5478f9a5d2",
+    "12_article_results/12_02_BDSF_Kazakhstan_Article_Replacement_Map.md": "f9bebf90bbff8ecde545e7624e27a3c183c21d357fc014840cc9612d5dc9b3b0",
+    "12_article_results/12_03_BDSF_Kazakhstan_Statistical_Reporting_Checklist.md": "9be90a1a3f60fede7b60f78049642b8f65f1efa47962c8d5e2a50ff55f5f4316",
+    "12_article_results/manuscript_20261106/BDSF_Kazakhstan_New_Article_2026.docx": "ec5e4e0cfc304e9d6e74d2f659545233c3622dee8fc6abd65accec3ebc1b4dcf",
+    "13_reproducibility_package/13_01_reproduce_analysis.py": "2be3f8f9e8525f633116864ca2787ee509de94a612c9840fa8166208e173ee97",
+    "13_reproducibility_package/13_02_run_reproduction.ps1": "56311ab04392d07bdf43f8f7104ea1a24e8defcb35b2873a06768987ec17438e",
+    "13_reproducibility_package/13_03_expected_results.json": "af51b164d47a9b561389319b52ca44b00d482b339106fdde3650ea3c785aaf3f",
+    "13_reproducibility_package/13_04_requirements.txt": "948edfa1481d831b61648dee6e5c0847b2210e2b0bdd42d0f296fdce1f191615",
+    "13_reproducibility_package/13_05_REPRODUCIBILITY_README.md": "83b3051c46a2ab18bb62f13c8013068d491b3d4eeddcc46f7752edb662035096",
+    "13_reproducibility_package/13_article.py": "b45a048203d0cae4775c8847f1c8fa13bac538dcbd524462aff89e6adbb1f743",
+    "13_reproducibility_package/13_export_workbooks.py": "2abb8ade68f34eb50ed6fb3a71f0e3b258b1acde7d42fcee8a6bd98443e9fb35",
+    "13_reproducibility_package/13_pipeline.py": "fac82ac0d95c93ea257f3b8ee3d9a288865f14750883001adbbd8f4dad658ebe",
+    "13_reproducibility_package/13_run_pipeline.ps1": "663aa04fedadaff11145c59c3e14ae3b6002a1ade1e0d6e5f893491ad2e3d210",
+    "13_reproducibility_package/13_statistics.py": "13ce7352e10f1af92b752b24217ef3377b0742930fb3d00b2e3a9b71be08fdab",
+    "13_reproducibility_package/13_test_pipeline.py": "624495576207cba0858ae14c89ebfc0f797e29f8d648a4ee9e033f5d315e26e0",
+    "13_reproducibility_package/inputs/original_article.docx": "18eaa7615b8c0f0c1ce1be914c42eff9cdf2163edd1b360d61c9c2b3550aedc6",
+    "13_reproducibility_package/inputs/question_map.csv": "f858a84f55a2a006ae842d5a2061c961133b86fd23e3a6ba452a78f40c491308",
+    "13_reproducibility_package/inputs/reference_scoring_matrix.xlsx": "4e0cb030d4b29cde3e4c62f9cfcc0b2c0013197dd621ba2046688cdb66351ec8",
+    "13_reproducibility_package/reproduced_results/13_07_reproduced_results.json": "7fc8d34f69c21b9f80a77a1df7216b07fbb41a971b8f95df7f7caea9c6489726",
+    "13_reproducibility_package/reproduced_results/13_08_verification_report.csv": "e0945d20c8d09935982e8b07166bbe89b5d4a4597297c6bbf0956663e65d0655",
+    "13_reproducibility_package/reproduced_results/13_09_full_analysis_results.json": "06e4ec3b55ef0b73d6c7f8067a2bc833a5d10b5fde8777cf947966560f47ac63",
+    "14_final_quality_control/14_01_BDSF_Kazakhstan_Final_File_Manifest.csv": "da6dbdd864f48df8ffa41ca4db9cfe8b58c7e6a52cacc88bb7d79c91c1002ab9",
+    "14_final_quality_control/14_02_BDSF_Kazakhstan_Final_QC_Checks.csv": "8dcb1c792dd82c258302f68d2b78fa41117c81fba99dfb9e7afb3a2b134a2f68",
+    "14_final_quality_control/14_03_BDSF_Kazakhstan_Final_QC_Summary.json": "53cafa287e4d71e41397b6937593b13f86cd5fc7df768974bd074cb8ac189b4b",
+    "14_final_quality_control/14_04_BDSF_Kazakhstan_Final_QC_Report.md": "f3b8aad3c9100aa623d8ec67f2266a4b89ba79a94a08f653ac5fae9ca0711b70",
+    "14_final_quality_control/14_05_BDSF_Kazakhstan_Submission_Checklist.md": "f229a1e89efba882f30117582118a40ee017a2d6d68a3ea505400f25dc730ef0",
+    "14_final_quality_control/14_06_BDSF_Kazakhstan_Correction_Log.md": "2f229f5d533c154ef828bb8ed5149a22caacbf11f90f3d4cac24c0b958197c55",
+    "14_final_quality_control/14_08_Numerical_Baseline_Checks.csv": "e0945d20c8d09935982e8b07166bbe89b5d4a4597297c6bbf0956663e65d0655",
+    "15_language_psychometrics/15_00_Report_KK.md": "3c9ce09c568917875e308b97aa7366babaa12c7417959eb382e53a553597d4e4",
+    "15_language_psychometrics/15_01_Reliability.csv": "f2c005428d2dbe4434938114c7e452c467a03cc0f650770bb380b2bc4a509fe2",
+    "15_language_psychometrics/15_02_Item_Total.csv": "8c145f88a4d41eacb164f9ff416858da3e8cf42b0f75dedb126c16161b30186e",
+    "15_language_psychometrics/15_03_Factor_Congruence.csv": "33302d541654bee3d50863ded0f4a393990d0685ac0725e41ea4976f01f887ca",
+    "15_language_psychometrics/15_03_Factor_Loadings.csv": "c7e5ebb42940c4310207cb010c9f4c67d2d7ed594f486cf33076c51dbea94abc",
+    "15_language_psychometrics/15_04_Distribution_Differences.csv": "6bcc328f4afbd0e5bc386074bed83b9f8a881460fe5df485370df12ded8d0581",
+    "15_language_psychometrics/15_04_Response_Distributions.csv": "af78f6502920c490def25fca34b8f7af04f897781db30492ced9c005e9c15b2b",
+    "15_language_psychometrics/15_05_Validation.json": "cf1ab801c5a4dae98e8344fe4095d8a05e03f24909559c6ce6e09d534b196c09",
+    "15_language_psychometrics/run_analysis.py": "35431ede016336aa167985d0cb6fc111d0916b0be14cfe3a63eeb147ea3fcddf"
+  },
+  "model_warnings": [],
+  "bootstrap": 1000,
+  "poly_permutations": 200,
+  "article_created": true,
+  "output_sha256": {
+    "ARTICLE_CHANGE_MAP.md": "57d04a92b2c9e2081b28ad33cc30a3477536bc667576a224ed98648354b5794d",
+    "ARTICLE_Updated_Four_Experiments.docx": "2c7f78b196dbe7935c8dd1efad243d57c072a34b403a65b06ba6acb8e9b18d43",
+    "EVIDENCE.json": "d2a1ce59b9aa1fd5aded53d0d862275d9ee356d09bd4d2fbc460b61ba480c3db",
+    "EXP01_Factor_Comparison.csv": "5ef3c5210488d865d706f009ba6c94ceaf4094b837f48e2fab853897e6c6c1dc",
+    "EXP01_Factor_Correlations.csv": "db9c2346f3feefd03e313f7b4da342120a9c74ace9a2188a8bdb0d4accad0b11",
+    "EXP01_Factor_Loadings.csv": "d1295df10726cd8ce60afd93b75756c67855bab2f7df7e03a29e80dd03a1c046",
+    "EXP01_Legacy_Phi_Audit.csv": "faa5d2f993db80721d09557115b1492066451c89f61d3cea851e3b78d7409d12",
+    "EXP01_Polychoric_Parallel.csv": "23e8e1e5a9b27e995d490a51b1c19f4df635122875696922c3ff20dd09aba9e8",
+    "EXP01_Residual_Correlations.csv": "f2433471438ab9f6563c4e69d12bd7e36728a8a81daf05b8354f6989e50c346f",
+    "EXP02_Absolute_Relative_Changes.csv": "7f962c141feaa70c13c29a35aafb0adc1ebeff0164a3b57d1c469c7dc0b1f787",
+    "EXP02_Flag_Counts.csv": "511166bbee69107a7081a1ab4213d71d17eebe0b4d4b6297c17eeb2cb84053eb",
+    "EXP02_Flag_Overlap.csv": "81f662215106465aff7ab4663c66406ba5fde2c6852034c3773c9a2856e734cc",
+    "EXP02_Loading_Changes.csv": "ebe7a91700cb66ca835fd74d0d26cb6452af225cc5384573ea923c0e58e043fe",
+    "EXP02_Quality_Sensitivity.csv": "9da69277d5c6bd9b8d0962cf9f68289e29dca7dfe86d9a8505c5f49befcebb1b",
+    "EXP03_Category_Summary.csv": "9aad623bad37d92f8495b328b50faa1eca78b4eecf94758da645b45cdb3c1ea9",
+    "EXP03_Category_Transitions.csv": "6f15606147fedea475876d1595d46f6fd6803d2a03517fa26fa1ebb8e18d0622",
+    "EXP03_Largest_Rank_Changes.csv": "c2a62c52edb5120cb2f4bd5a3049374c0b20e3a704285989cc1267dffbadc375",
+    "EXP03_M3_Coefficients.csv": "ae4fa8967f6b3363970db54d1bbc82cfa2e70bfcd3a49b1bf55a33f7d0ef1090",
+    "EXP03_Rank_Stability.csv": "b2ee79ac2689ab6c16bdb9c4cd4a9449cbe5e18d7d6bea949267ce7187bc3c70",
+    "EXP03_Scoring_Comparison.csv": "99272a8daf31bc38c04cc804d4daf16c5f26cb1d3a36a9baba646ae94445fc06",
+    "EXP04_Factor_Stability.csv": "acd64f0dbb6ac6ba495bcd96030307335f84c7b1fd01ca9fce113161f7649240",
+    "EXP04_Language_Comparison.csv": "17fa53104617f3a7a0852d187dd05f1186cd5af4c0852bd4b4955e88a52cac27",
+    "FINAL_Research_Report_KK.md": "4d73ebd2f76656d394742637f380febcb43de824ec8963529508383d5a9bff83",
+    "PA_N139.csv": "1ff9be70d01ac1f20897152a4e40583abbd1f357bcd25731ae5f1c51d7ac20fd",
+    "POLY_KZ_pairs.csv": "fa5f24930786c622689615e5b23d072024e72e350a37240dc98f28561cec9317",
+    "POLY_KZ_raw.csv": "af8c009722401ee70bc8b2f9d2aa182f781b26346aed9aeaf7594c699ac2e78b",
+    "POLY_KZ_used.csv": "af8c009722401ee70bc8b2f9d2aa182f781b26346aed9aeaf7594c699ac2e78b",
+    "POLY_Matrix_Diagnostics.csv": "57456a96216802450503b838088f8fe4f0808a11b74682d0973add81fc24003d",
+    "POLY_N159_pairs.csv": "2d6d2e170af5abd6a94f01c9092c293c2666cfe22895b997f1c3d998587f2220",
+    "POLY_N159_raw.csv": "ccfda4be0282968af6ec8c5b53f1b0bd663b055b102d1cf50b70c748e91993b9",
+    "POLY_N159_used.csv": "ccfda4be0282968af6ec8c5b53f1b0bd663b055b102d1cf50b70c748e91993b9",
+    "POLY_RU_pairs.csv": "c57edb4b440d05f713fdfcf19781cf4cb6aebea4f4ead96f8324a295d18881dc",
+    "POLY_RU_raw.csv": "2b99f4ec2d93846d394d39e429bde13112db673800b3cf4fa507b260f6e51f09",
+    "POLY_RU_used.csv": "2b99f4ec2d93846d394d39e429bde13112db673800b3cf4fa507b260f6e51f09",
+    "REUSE_LEDGER.csv": "bc7854fa2ecbf6bc1577512308b6803397014b39799fade5e1c9e0d1375e2dc5",
+    "STAGE01_Data_Audit.csv": "d5399f234c2f237abf6103c7085b508f4118d06595457532ed54b8e6b6fa7697",
+    "STAGE_Completion.csv": "d8ebe9c84b253b795d7be785738bbef6ea5c82670f691a7ed886bd587013aaef",
+    "VALIDATION_CHECKS.csv": "07eab1d78c5d2ccc51ea819760d9f6c8018592587de9c37dac3763b68ebfca6c"
+  }
+}

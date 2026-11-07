@@ -1,0 +1,878 @@
+{
+  "status": "PASS",
+  "checks_count": 218,
+  "checks": [
+    {
+      "check": "Pipeline status",
+      "passed": true
+    },
+    {
+      "check": "Immutable 00_sources/00_01_BDSF_Kazakhstan_Kazakh_Responses.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 00_sources/00_02_BDSF_Kazakhstan_Russian_Responses.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 00_sources/00_03_BDSF_Kazakhstan_Survey_URLs.txt",
+      "passed": true
+    },
+    {
+      "check": "Immutable 00_sources/00_04_BDSF_Kazakhstan_Research_Protocol_Extract.pdf",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_01_file_inventory.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_02_dataset_structure.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_03_duplicate_report.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_04_missing_values_report.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_05_kz_ru_question_alignment.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_06_response_category_alignment.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_07_protocol_compliance_check.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 01_audit/01_08_audit_report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 02_scoring_matrix/02_01_BDSF_Kazakhstan_Scoring_Matrix.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 02_scoring_matrix/02_02_BDSF_Kazakhstan_Scoring_Specification.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 03_harmonization/03_01_BDSF_Kazakhstan_Harmonized_Dataset.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 03_harmonization/03_02_BDSF_Kazakhstan_Codebook.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 03_harmonization/03_03_BDSF_Kazakhstan_Bilingual_Question_Map.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 03_harmonization/03_04_BDSF_Kazakhstan_Harmonization_Rules.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 03_harmonization/03_05_BDSF_Kazakhstan_Harmonization_Report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 04_cleaning/04_01_BDSF_Kazakhstan_Clean_Dataset.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 04_cleaning/04_02_BDSF_Kazakhstan_Validation_Report.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 04_cleaning/04_03_BDSF_Kazakhstan_Exclusion_Log.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 04_cleaning/04_04_BDSF_Kazakhstan_Cleaning_Log.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 04_cleaning/04_05_BDSF_Kazakhstan_Cleaning_Report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 05_scoring/05_01_BDSF_Kazakhstan_Scored_Dataset.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 05_scoring/05_02_BDSF_Kazakhstan_Scoring_Report.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 05_scoring/05_03_BDSF_Kazakhstan_Scoring_QC.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 05_scoring/05_04_BDSF_Kazakhstan_Scoring_Log.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 06_descriptive_analysis/06_01_BDSF_Kazakhstan_Descriptive_Statistics.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 06_descriptive_analysis/06_02_BDSF_Kazakhstan_Indicator_Statistics.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 06_descriptive_analysis/06_03_BDSF_Kazakhstan_Dimension_Statistics.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 06_descriptive_analysis/06_04_BDSF_Kazakhstan_Group_Descriptives.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 06_descriptive_analysis/06_05_BDSF_Kazakhstan_Level_Distribution.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 06_descriptive_analysis/06_06_BDSF_Kazakhstan_Descriptive_Report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 07_reliability_analysis/07_01_BDSF_Kazakhstan_Reliability_Analysis.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 07_reliability_analysis/07_02_BDSF_Kazakhstan_Scale_Reliability.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 07_reliability_analysis/07_03_BDSF_Kazakhstan_Item_Diagnostics.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 07_reliability_analysis/07_04_BDSF_Kazakhstan_Reliability_Report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 08_construct_validity/08_01_BDSF_Kazakhstan_Construct_Validity.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 08_construct_validity/08_02_BDSF_Kazakhstan_Item_Correlation_Matrix.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 08_construct_validity/08_03_BDSF_Kazakhstan_Factor_Loadings.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 08_construct_validity/08_04_BDSF_Kazakhstan_Validity_Indices.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 08_construct_validity/08_05_BDSF_Kazakhstan_Parallel_Analysis.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 08_construct_validity/08_06_BDSF_Kazakhstan_Factor_Correlations.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 08_construct_validity/08_07_BDSF_Kazakhstan_Validity_Report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 09_group_comparison/09_01_BDSF_Kazakhstan_Group_Comparisons.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 09_group_comparison/09_02_BDSF_Kazakhstan_Two_Group_Comparisons.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 09_group_comparison/09_07_BDSF_Kazakhstan_Group_Comparison_Report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_01_BDSF_Kazakhstan_Publication_Tables.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_02_Figure_1_Dimension_Means.png",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_03_Figure_2_Indicator_Means.png",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_04_Figure_3_Reliability.png",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_05_Figure_4_Factor_Loadings.png",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_07_Table_1_Sample_Characteristics.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_08_Table_2_Main_Results.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 11_figures_and_tables/11_09_Figure_and_Table_Guide.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 12_article_results/12_01_BDSF_Kazakhstan_Full_Updated_Article.docx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 12_article_results/12_02_BDSF_Kazakhstan_Article_Replacement_Map.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 12_article_results/12_03_BDSF_Kazakhstan_Statistical_Reporting_Checklist.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 12_article_results/manuscript_20261106/BDSF_Kazakhstan_New_Article_2026.docx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_01_reproduce_analysis.py",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_02_run_reproduction.ps1",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_03_expected_results.json",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_04_requirements.txt",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_05_REPRODUCIBILITY_README.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_article.py",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_export_workbooks.py",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_pipeline.py",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_run_pipeline.ps1",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_statistics.py",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/13_test_pipeline.py",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/inputs/original_article.docx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/inputs/question_map.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/inputs/reference_scoring_matrix.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/reproduced_results/13_07_reproduced_results.json",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/reproduced_results/13_08_verification_report.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 13_reproducibility_package/reproduced_results/13_09_full_analysis_results.json",
+      "passed": true
+    },
+    {
+      "check": "Immutable 14_final_quality_control/14_01_BDSF_Kazakhstan_Final_File_Manifest.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 14_final_quality_control/14_02_BDSF_Kazakhstan_Final_QC_Checks.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 14_final_quality_control/14_03_BDSF_Kazakhstan_Final_QC_Summary.json",
+      "passed": true
+    },
+    {
+      "check": "Immutable 14_final_quality_control/14_04_BDSF_Kazakhstan_Final_QC_Report.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 14_final_quality_control/14_05_BDSF_Kazakhstan_Submission_Checklist.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 14_final_quality_control/14_06_BDSF_Kazakhstan_Correction_Log.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 14_final_quality_control/14_08_Numerical_Baseline_Checks.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_00_Report_KK.md",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_01_Reliability.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_02_Item_Total.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_03_Factor_Congruence.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_03_Factor_Loadings.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_04_Distribution_Differences.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_04_Response_Distributions.csv",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/15_05_Validation.json",
+      "passed": true
+    },
+    {
+      "check": "Immutable 15_language_psychometrics/run_analysis.py",
+      "passed": true
+    },
+    {
+      "check": "Output hash ARTICLE_CHANGE_MAP.md",
+      "passed": true
+    },
+    {
+      "check": "Output hash ARTICLE_Updated_Four_Experiments.docx",
+      "passed": true
+    },
+    {
+      "check": "Output hash EVIDENCE.json",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP01_Factor_Comparison.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP01_Factor_Correlations.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP01_Factor_Loadings.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP01_Legacy_Phi_Audit.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP01_Polychoric_Parallel.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP01_Residual_Correlations.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP02_Absolute_Relative_Changes.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP02_Flag_Counts.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP02_Flag_Overlap.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP02_Loading_Changes.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP02_Quality_Sensitivity.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP03_Category_Summary.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP03_Category_Transitions.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP03_Largest_Rank_Changes.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP03_M3_Coefficients.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP03_Rank_Stability.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP03_Scoring_Comparison.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP04_Factor_Stability.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash EXP04_Language_Comparison.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash FINAL_Research_Report_KK.md",
+      "passed": true
+    },
+    {
+      "check": "Output hash PA_N139.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_KZ_pairs.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_KZ_raw.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_KZ_used.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_Matrix_Diagnostics.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_N159_pairs.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_N159_raw.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_N159_used.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_RU_pairs.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_RU_raw.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash POLY_RU_used.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash REUSE_LEDGER.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash STAGE01_Data_Audit.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash STAGE_Completion.csv",
+      "passed": true
+    },
+    {
+      "check": "Output hash VALIDATION_CHECKS.csv",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q1",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q2",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q3",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q4",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q5",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q6",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q7",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q8",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q9",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q10",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q11",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q12",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q13",
+      "passed": true
+    },
+    {
+      "check": "Numeric coding Q14",
+      "passed": true
+    },
+    {
+      "check": "No respondent private fields",
+      "passed": true
+    },
+    {
+      "check": "M1 values retained",
+      "passed": true
+    },
+    {
+      "check": "M2 formula",
+      "passed": true
+    },
+    {
+      "check": "M3 independently reconstructed",
+      "passed": true
+    },
+    {
+      "check": "M1 rank sum",
+      "passed": true
+    },
+    {
+      "check": "M2 rank sum",
+      "passed": true
+    },
+    {
+      "check": "M3 rank sum",
+      "passed": true
+    },
+    {
+      "check": "Transition total",
+      "passed": true
+    },
+    {
+      "check": "Category changed count",
+      "passed": true
+    },
+    {
+      "check": "Weighted kappa independent formula",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('N159', 'Pearson', 1)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('N159', 'Pearson', 1)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('N159', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('N159', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('N159', 'Polychoric', 1)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('N159', 'Polychoric', 1)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('N159', 'Polychoric', 4)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('N159', 'Polychoric', 4)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('N139', 'Pearson', 1)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('N139', 'Pearson', 1)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('N139', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('N139', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('KZ', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('KZ', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('KZ', 'Polychoric', 1)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('KZ', 'Polychoric', 1)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('KZ', 'Polychoric', 4)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('KZ', 'Polychoric', 4)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('RU', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('RU', 'Pearson', 4)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('RU', 'Polychoric', 1)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('RU', 'Polychoric', 1)",
+      "passed": true
+    },
+    {
+      "check": "Oblique communality ('RU', 'Polychoric', 4)",
+      "passed": true
+    },
+    {
+      "check": "RMSR ('RU', 'Polychoric', 4)",
+      "passed": true
+    },
+    {
+      "check": "10 language reliability rows",
+      "passed": true
+    },
+    {
+      "check": "Corrected oblique covariance equals unrotated covariance",
+      "passed": true
+    },
+    {
+      "check": "Bootstrap counts",
+      "passed": true
+    },
+    {
+      "check": "Valid omega bounds",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP01_Factor_Comparison.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP01_Factor_Correlations.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP01_Factor_Loadings.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP01_Legacy_Phi_Audit.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP01_Polychoric_Parallel.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP01_Residual_Correlations.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP02_Absolute_Relative_Changes.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP02_Flag_Counts.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP02_Flag_Overlap.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP02_Loading_Changes.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP02_Quality_Sensitivity.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP03_Category_Summary.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP03_Category_Transitions.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP03_Largest_Rank_Changes.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP03_M3_Coefficients.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP03_Rank_Stability.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP03_Scoring_Comparison.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP04_Factor_Stability.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields EXP04_Language_Comparison.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields PA_N139.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_KZ_pairs.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_KZ_raw.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_KZ_used.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_Matrix_Diagnostics.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_N159_pairs.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_N159_raw.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_N159_used.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_RU_pairs.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_RU_raw.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields POLY_RU_used.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields REUSE_LEDGER.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields STAGE01_Data_Audit.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields STAGE_Completion.csv",
+      "passed": true
+    },
+    {
+      "check": "No direct participant fields VALIDATION_CHECKS.csv",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿sample,old_rmsr,corrected_rmsr,max_communality_change,reason
+N159,0.170621610764,0.0303352217976,0.295123622152,factor_analyzer sorts loadings and structure but not phi; corrected via structure=L@Phi
+KZ,,0.0282911177084,0.0567599263706,preserved loadings; recovered consistent Phi from library structure matrix
+RU,,0.0380085911165,7.39847517695e-08,preserved loadings; recovered consistent Phi from library structure matrix
